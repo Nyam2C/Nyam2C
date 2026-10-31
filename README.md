@@ -1,1 +1,42 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrxogus502)](https://solved.ac/qkrxogus502/)
+## 안녕하세요, 프론트엔드 개발자 박태현입니다 👋
+
+기능이 아무리 복잡해도 사용자는 그 복잡함을 느끼지 않아야 한다고 생각합니다.<br/>
+지금은 소프트웨어 마에스트로 17기에서 여행 앱 **TripPilot**의 프론트엔드를 혼자 맡아 App Store에 출시하고 운영하고 있습니다.
+
+- 🎓 아주대학교 소프트웨어학과 4학년 (2027.02 졸업 예정)
+- 🏆 2025 Google–아주대학교 AI융합 캡스톤디자인 대회 장려상 (팀장)
+- 📄 KCC 2025 학부생 논문 제1저자
+
+<br/>
+
+## 📌 Projects
+
+| 기간 | 프로젝트 | 소개 · 담당 |
+|:---:|---|---|
+| 2025.03<br/>~ 06 | 📄 **[HART-Shortcut](https://github.com/Nyam2C/hart-shortcut)** | 이미지 생성 모델 HART에 1-step 확산 모델을 이어 붙여 생성 속도를 높이는 연구 (KCC 2025)<br/>**담당** 제1저자 · 모델 재현·비교, 두 모델 결합 |
+| 2025.09<br/>~ 12 | 🧠 **[SyncNapse](https://github.com/CodeGachi/SyncNapse)** | 강의 자료·녹음·자막·손필기를 한곳에 모은 학습 플랫폼<br/>**담당** 팀장 · 프론트엔드 |
+| 2026.02<br/>~ 07 | 💹 **[FinClaw](https://github.com/Nyam2C/FinClaw)** | 혼자 읽고 감사할 수 있는 개인용 금융 AI 비서<br/>**담당** 개인 프로젝트 · 설계·개발 전체 |
+| 2026.04<br/>~ 11 | ✈️ **[TripPilot](https://github.com/ASM-TripPilot/trippilot)** | AI가 취향과 동선에 맞춰 여행 일정을 짜 주는 앱 · [App Store](https://apps.apple.com/kr/app/trippilot/id6819041997)<br/>**담당** 프론트엔드 · SW마에스트로 17기 |
+
+<br/>
+
+## 🛠 Tech Stack
+
+<table>
+  <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" height="34" /></td></tr>
+  <tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react" height="34" /> React Native · Expo</td></tr>
+  <tr><td><b>State·Data</b></td><td>Zustand · TanStack Query · orval · IndexedDB · Liveblocks</td></tr>
+  <tr><td><b>Test·Ops</b></td><td><img src="https://skillicons.dev/icons?i=jest,githubactions,sentry" height="34" /></td></tr>
+  <tr><td><b>Etc</b></td><td><img src="https://skillicons.dev/icons?i=py,bun,electron,sqlite" height="34" /> Claude Code · MCP</td></tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="./profile/stats.svg" height="170" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
+</p>
+
+<a href="https://solved.ac/qkrxogus502/"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrxogus502" height="120" alt="solved.ac" /></a>
