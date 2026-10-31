@@ -52,4 +52,4 @@
   <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
 </p>
 
-<a href="https://solved.ac/qkrxogus502/"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrxogus502" height="120" alt="solved.ac" /></a>
+<a href="https://solved.ac/qkrxogus502/"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrxogus502" height="170" alt="solved.ac" /></a>
