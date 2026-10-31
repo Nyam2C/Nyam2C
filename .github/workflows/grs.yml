@@ -14,13 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 기본 GITHUB_TOKEN은 기여 내역을 못 읽는다 → GRS_TOKEN(PAT) 시크릿 필요. 실패하면 기존 카드 유지.
       - name: Generate stats card
+        continue-on-error: true
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
